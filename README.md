@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # My Favorite Movie: White Chicks (2004)
 
 ## 🎬 Movie Information
